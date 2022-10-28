@@ -1,0 +1,11 @@
+orders/ListOrderTest.class
+orders/AcceptOrderTest.class
+courier/LoginCourierTest.class
+orders/CreateOrderTest.class
+orders/BaseOrdersTest.class
+courier/CreateCourierTest.class
+courier/DeleteCourierTest.class
+orders/СompleteOrderTest.class
+orders/OrderForNumberTest.class
+orders/CancelOrderTest.class
+courier/BaseCourierTest.class
